@@ -30,7 +30,7 @@ public class Application {
 
 
             // STEP 3: Obtain a connection to the JDND-C3 database
-            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/JDND_C3?user=root&password=Summer2019");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/JDND_C3?user=root&password=password");
             // STEP 4: Use Statement to INSERT 2 records into the member table
 
 
